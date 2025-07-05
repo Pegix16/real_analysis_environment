@@ -1,0 +1,11 @@
+CreditNoteID,ClientID,DateIssued,CreditAmount,Reason
+4001,1007,2023-02-01,3158,Return
+4002,1006,2023-02-16,1555,Service Failure
+4003,1001,2023-03-03,4897,Service Failure
+4004,1006,2023-03-18,566,Pricing Adjustment
+4005,1007,2023-04-02,1266,Service Failure
+4006,1009,2023-04-17,3759,Service Failure
+4007,1003,2023-05-02,2474,Service Failure
+4008,1010,2023-05-17,2280,Pricing Adjustment
+4009,1008,2023-06-01,4632,Pricing Adjustment
+4010,1009,2023-06-16,1905,Pricing Adjustment

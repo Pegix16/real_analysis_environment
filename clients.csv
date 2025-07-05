@@ -1,0 +1,11 @@
+ClientID,CompanyName,Region,StartDate,CreditLimit,AvgPaymentDelay
+1001,Client_1,BC,2018-01-01,46894,58
+1002,Client_2,Quebec,2018-06-30,28174,25
+1003,Client_3,BC,2018-12-27,46610,50
+1004,Client_4,Ontario,2019-06-25,14465,0
+1005,Client_5,Ontario,2019-12-22,44766,10
+1006,Client_6,Ontario,2020-06-19,23186,19
+1007,Client_7,Alberta,2020-12-16,15618,38
+1008,Client_8,Ontario,2021-06-14,19131,9
+1009,Client_9,Alberta,2021-12-11,46590,13
+1010,Client_10,Quebec,2022-06-09,24207,22
