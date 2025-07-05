@@ -1,14 +1,14 @@
 
-# 📊 Credit Risk & Sales Analysis — IPEX by Aliaxis
+# 📊 Credit Risk & Sales Analysis
 
-This project analyzes financial behavior, order statuses, client credit patterns, and sales trends using simulated company data for **IPEX by Aliaxis**. The goal is to explore business insights such as payment delays, regional sales performance, and customer risk levels.
+This project analyzes financial behavior, order statuses, client credit patterns, and sales trends using simulated company data. The goal is to explore business insights such as payment delays, regional sales performance, and customer risk levels.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-ipex-credit-risk-analysis/
+credit-risk-analysis/
 │
 ├── data/                # CSV files: clients, orders, credit_notes, transactions
 ├── analysis.ipynb       # Full analysis and visualizations
