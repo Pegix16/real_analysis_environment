@@ -74,7 +74,6 @@ ipex-credit-risk-analysis/
 
 **Pegah Asgari**  
 Junior Data Analyst | Toronto, ON  
-📧 pegix16@gmail.com  
 🌐 [https://pegix16.com](https://pegix16.com)  
 📍 [LinkedIn](https://linkedin.com/in/pegah-asgari)
 
